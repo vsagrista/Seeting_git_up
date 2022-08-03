@@ -1,1 +1,1 @@
-# Seeting_git_up
+# Seeting up git on my laptop
